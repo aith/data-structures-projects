@@ -1,0 +1,12 @@
+#file: README
+#Ari Iramanesh
+#id: 1628897
+#class: 12M
+#lab5
+
+README
+Makefile
+ExpTree.h
+ExpTree.c
+Stack.h
+Stack.c

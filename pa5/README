@@ -1,0 +1,13 @@
+# README
+# Ari Iramanesh
+# 1628897
+# 12B
+# assignment 5
+# desc: contains the files to be submitted with assignment 5
+
+README
+Dictionary.c
+Dictionary.h
+DictionaryTest.c
+DictionaryClient.c
+Makefile
